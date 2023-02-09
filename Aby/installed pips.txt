@@ -2,4 +2,6 @@ pip install django-responsive2
 pip install django-crispy-forms
 pip install pillow
 pip install pycryptodome
+pip install django
+python install 3.7.0
 
